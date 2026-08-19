@@ -14,7 +14,7 @@ I am Tijana Andonovic Junior Fronted Developer.I am focus on making modern respo
 -API
 -Git
 
-##Projects
+## Projects
 
 🚀 Current projects
 -E-commerce application
