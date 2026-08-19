@@ -3,8 +3,7 @@
 
 👋 About me
 
-I am Tijana Andonovic Junior Fronted Developer.
-I am focus on making modern responsive applications with React.
+I am Tijana Andonovic, a Junior Frontend Developer. I focus on building modern and responsive applications with React.
 
 ## Tech 
 💻 Technologies
