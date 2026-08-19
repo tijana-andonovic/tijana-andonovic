@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am Tijana Andonovic Junior Fronted Developer.I am focus on making modern responsive applications with React.
 
 ## Tech 
@@ -17,4 +16,4 @@ I am Tijana Andonovic Junior Fronted Developer.I am focus on making modern respo
 
 ## Contact
 
--->
+
